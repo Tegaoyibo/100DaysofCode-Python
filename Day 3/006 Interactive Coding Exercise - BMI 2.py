@@ -32,27 +32,5 @@ elif BMI < 35:
 else:
     print(f"Your BMI is {BMI} and you're clinically obese.")
 
-'''
-Takeaways: 
-The way I initially had it:
-    if 25 < BMI >= 18.5:
-is read as if 15 is less than the BMI and the BMI is greather than or equal to 18.5.
-
-Here is the example code that helped me realize my mistake:
-
-x = 10
-
-if x > 15:
-    print("x is greater than 15")
-elif x > 10:
-    print("x is greater than 10 but less than or equal to 15")
-elif x > 5:
-    print("x is greater than 5 but less than or equal to 10")
-else:
-    print("x is less than or equal to 5")
-
-Condition will be read from left to right.
-'''
-
 
 
