@@ -1,6 +1,6 @@
 #006 Interactive Coding Exercise - BMI 2.0
 '''
-Lecture Example of COntrol Statements
+Lecture Example of Control Statements
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm?"))
 
