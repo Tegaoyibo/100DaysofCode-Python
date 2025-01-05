@@ -9,6 +9,9 @@
 #code
 import random
 random_float = random.random()*5 #takes no arguments
+the same thing can be done with random.uniform()
+
+
 print(random_float)
 # multiplying by the desired (non-inclusive)range 
 '''
