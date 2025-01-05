@@ -1,4 +1,4 @@
-#009 [Interactive Coding Exercise] Pizza Order Practice
+009 [Interactive Coding Exercise] Pizza Order Practice
 '''
 Small pizza = $15
 Medium pizza = $20
