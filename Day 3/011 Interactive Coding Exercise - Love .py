@@ -40,14 +40,3 @@ elif score <60 or score>50: #elif bc this if statemet is if the previous one is 
      print(f"Your score is: {score}. You are alright together.")
 else:
     print(f"Your score is: {score}.")
-
-'''
-Takeaways:
-Necessary to make all strings involved all one type of case. Normally lower.
-Then combine the name.
-    I don't know if spaces affect this, I don't think it does, but we can use the .strip() method.
-        In this method you can specify the character or string that you want to remove. can be left or right.
-count method is used by specifying the character or string you want to count
-put the digit value(s) in variable
-convert to string and concat
-'''
