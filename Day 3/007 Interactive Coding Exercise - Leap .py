@@ -1,6 +1,6 @@
 #007 Interactive Coding Exercise - Leap year
 '''
-Logical Error??
+Possible Logical Error??
 '''
 year = int(input("Enter a year to see if a year is a leap year or not. "))
 
